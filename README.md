@@ -1,9 +1,8 @@
 # Hoe kunnen we online een samenwerking opzetten voor MusicService?
 
-## Welke samenwerkings procces zijn er mogelijk
+## Hoe kan de workflow verbeterd worden
 
 ## Hoe communiceer je de belangen van je project
-
 
 ## Hoe kan je er voor zorgen dat het project te begrijpen is voor andere SE's/stakeholders
 
