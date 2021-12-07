@@ -1,6 +1,6 @@
 # Hoe kunnen we online een samenwerking opzetten voor MusicService?
 
-## Welke workflow past het binnen MusicService?
+## Welke workflow past binnen MusicService?
 
 ## Hoe communiceer je de belangen van je project
 
