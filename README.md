@@ -78,7 +78,9 @@ Er zijn meerdere manieren om de belangen van je project te communiceren met stak
 ### Github
 Een van de makkelijkste manieren om dit te doen is via GitHub issues. Via hier kunnen issues aangemaakt worden van wat er nog gedaan moet worden aan het project. Zo ontstaat er een overzicht van alles wat al in het project verwerkt is en alles wat nog uitgevoerd moet gaan worden. Ook kun je via GitHub issues personen aan de issue koppelen die deze issue zal verwerken. Nieuwe software engineers die mee willen helpen kunnen hun zelf ook toewijzen aan issues die nog geen gekoppeld persoon hebben. 
 Alle issues kunnen binnen GitHub samen gevoegd in een overzicht dashboard door gebruik te maken van GitHub projects. Door dit te gebruiken krijg je dashboard met alle issues die gemaakt moeten worden. Ook zie je hier de actuele status van elke issue. Zo kan je zien of de issue al in progress is, er een review in progress is of dat de issue al verholpen is.
+
 ![Github Projects](https://user-images.githubusercontent.com/78905924/145173162-c916f5bd-9ea6-454c-8fa6-bb6b4d989266.png)
+
 [vscode - Microsoft](https://github.com/microsoft/vscode)
  
 ### Jira
@@ -87,7 +89,9 @@ Een andere tool die je kan gebruiken is Jira. Dit werkt bijna het zelfde als Git
  
 ### Readme
 Binnen een project is vaak een readme te vinden. Hierin is vaak additionele informatie te vinden voor de belangen van het project. Dit zijn vaak non functionele belangen zoals bijvoorbeeld hoe er word om gegaan met een pull request. Ook deze zijn erg belangrijk om in je project te hebben zodat het voor iedereen duidelijk is wat er binnen het project verwacht word. Hierom is altijd handig om een readme te maken zodat je de non functionele belangen ook goed communiceert.
+
 ![ReadMe](https://user-images.githubusercontent.com/78905924/145173164-df5a0d2d-6bac-45d1-89db-82a4974dac7c.png)
+
 [vscode - Microsoft](https://github.com/microsoft/vscode)
 ### Reflectie
 Binnen Music Service zijn we begonnen met het werken in Jira. Dit was in het begin erg duidelijk en overzichtelijk. Later zijn we er achter gekomen dat het makkelijker is om via GitHub projects te werken door middel van issues. Hierdoor is je proces veel meer gekoppeld aan je code en kregen we een overzichtelijkere werkwijze. In een volgend project zullen we dus van het begin af aan werken met GitHub Projects en issues. 
