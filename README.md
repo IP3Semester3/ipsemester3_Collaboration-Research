@@ -97,13 +97,13 @@ Binnen een project is vaak een readme te vinden. Hierin is vaak additionele info
 Binnen Music Service zijn we begonnen met het werken in Jira. Dit was in het begin erg duidelijk en overzichtelijk. Later zijn we er achter gekomen dat het makkelijker is om via GitHub projects te werken door middel van issues. Hierdoor is je proces veel meer gekoppeld aan je code en kregen we een overzichtelijkere werkwijze. In een volgend project zullen we dus van het begin af aan werken met GitHub Projects en issues. 
  
 ## Sources
-[Jira](https://semseter3-ip-tomeykholt.atlassian.net/jira/software/projects/SEM3/boards/2/roadmap)
-[Lobby Service](https://github.com/IP3Semester3/ipsemester3_lobbyservice)
-[Music Service](https://github.com/IP3Semester3/ipsemester3_music)
-[CryptoBoardSPA – DirkLemmen](https://github.com/DirkLemmen/CryptoBoardSPA) 
-[vscode - Microsoft](https://github.com/microsoft/vscode)
-[lisa - Microsoft](https://github.com/microsoft/lisa)
-[nni - Microsoft](https://github.com/microsoft/nni)
+- [Jira](https://semseter3-ip-tomeykholt.atlassian.net/jira/software/projects/SEM3/boards/2/roadmap)
+- [Lobby Service](https://github.com/IP3Semester3/ipsemester3_lobbyservice)
+- [Music Service](https://github.com/IP3Semester3/ipsemester3_music)
+- [CryptoBoardSPA – DirkLemmen](https://github.com/DirkLemmen/CryptoBoardSPA) 
+- [vscode - Microsoft](https://github.com/microsoft/vscode)
+- [lisa - Microsoft](https://github.com/microsoft/lisa)
+- [nni - Microsoft](https://github.com/microsoft/nni)
 
 
 ## Hoe kan je er voor zorgen dat het project te begrijpen is voor andere SE's/stakeholders
@@ -121,15 +121,15 @@ Verder is het voor software engineers ook belangrijk dat zij makkelijk kunnen he
 Binnen het Music Service hebben we er voor gezorgd dat de architectuur duidelijk beschreven word door middel van een C4 plaat. We hebben gekozen om het C4 model te gebruiken omdat dit meer diepgang bied op de werking van distrubated architecture. UML heeft deze optie niet omdat hierin voornamelijk de klasse en de relaties hiertussen beschreven worden. Ook hebben we er voor gezorgd dat het voor een software engineer duidelijk is hoe de repository in elkaar zit. Dit hebben we gedan door er voor te zorgen dat de braches, code guidelines, pull requests en docker zorgvuldig uitgelegd word binnen de readme van het project. 
 
 ## Source
-[vscode Microsoft](https://github.com/microsoft/vscode)
-[Web-Dev-For-Beginners Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
-[Quantum - Microsoft](https://github.com/microsoft/Quantum)
-[Playwright - Microsoft](https://github.com/microsoft/playwright)
-[Repositories - Microsoft](https://github.com/orgs/microsoft/repositories) 
-[nni - Microsoft](https://github.com/microsoft/nni)
-[Lobby - Microsoft](https://github.com/IP3Semester3/ipsemester3_lobbyservice)
-[Music - Microsoft](https://github.com/IP3Semester3/ipsemester3_music)
-[CryptoBoardSPA – DirkLemmen](https://github.com/DirkLemmen/CryptoBoardSPA)
+- [vscode Microsoft](https://github.com/microsoft/vscode)
+- [Web-Dev-For-Beginners Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Quantum - Microsoft](https://github.com/microsoft/Quantum)
+- [Playwright - Microsoft](https://github.com/microsoft/playwright)
+- [Repositories - Microsoft](https://github.com/orgs/microsoft/repositories) 
+- [nni - Microsoft](https://github.com/microsoft/nni)
+- [Lobby - Microsoft](https://github.com/IP3Semester3/ipsemester3_lobbyservice)
+- [Music - Microsoft](https://github.com/IP3Semester3/ipsemester3_music)
+- [CryptoBoardSPA – DirkLemmen](https://github.com/DirkLemmen/CryptoBoardSPA)
 
 ## Hoe zorg je er voor dat er waardetoevoeging binnen het project mogelijk is
 
