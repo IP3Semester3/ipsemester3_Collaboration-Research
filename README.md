@@ -131,7 +131,4 @@ Binnen het Music Service hebben we er voor gezorgd dat de architectuur duidelijk
 - [Music - Microsoft](https://github.com/IP3Semester3/ipsemester3_music)
 - [CryptoBoardSPA – DirkLemmen](https://github.com/DirkLemmen/CryptoBoardSPA)
 
-## Hoe zorg je er voor dat er waardetoevoeging binnen het project mogelijk is
-
-
 
