@@ -22,6 +22,8 @@ Het allergrootste nadeel van deze workflow is dat het niet altijd even makkelijk
 ## Github Flow
 Github Flow word gezien als de makkelijkere versie van Gitflow. In deze workflow is het wel mogelijk om meerdere keren per dag te deployen. Bij de Github flow draait het allemaal om de master branch. Alles wat in deze branch zit is bedoeld om gedeployed te worden te worden. Als er een nieuwe feature gemaakt moet worden, wordt er eerst een nieuwe branch gemaakt vanuit de master branch. De naam van deze branch moet duidelijk de feature beschrijven. Als de feature klaar is, is het de bedoeling dat je via een pull request naar de master branch pushed. Deze pull request moet gereviewed worden waarna de master branch wordt geupdate. (Github Flow Quickstart, sd)
 
+Een goed voorbeeld van een github flow repository is deze [vscode repo van Microsoft](https://github.com/microsoft/vscode). Een main branch met een deployable versie, en een hoop feature branches met duidelijk beschreven namen.
+
 ### Voordelen van Github Flow
 Het gebruiken van github flow is simpel en overzichtelijk. Het volgt een simpele workflow die begint bij de master branch en ook weer eindigt met de master branch zonder al te veel verschillende branches ertussen te creëren. 
 
