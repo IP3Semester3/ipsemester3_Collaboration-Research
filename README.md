@@ -1,3 +1,6 @@
+#### Voorwoord
+Voor het beantwoorden van de onderzoeksvraag "Hoe kunnen we online een samenwerking opzetten voor MusicService?" hebben we de DOT methode gebruikt. Hiervoor hebben we uit de library methode de volgende strategien gebruikt Community research en Literature study ook hebben we voor de Field methode Document analysis gebruikt. Als laatst hebben we binnen Workshop prototyping gebruikt om zelf te kijken naar de verschillende flows.
+
 # Hoe kunnen we online een samenwerking opzetten voor MusicService?
 
 ## Welke workflow past binnen MusicService?
